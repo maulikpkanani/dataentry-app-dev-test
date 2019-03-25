@@ -1,0 +1,9 @@
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.error {
+	position: absolute;
+	top: -5%;
+	left: 6%;
+}
